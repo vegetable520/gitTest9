@@ -1,1 +1,2 @@
-Hello Git
+Hello Git 여기는 원격의 develop
+원격 develop 이다
